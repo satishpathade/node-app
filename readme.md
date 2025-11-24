@@ -1,0 +1,1 @@
+# Node.js Authentication API (JWT + MongoDB) deploy on EC2
